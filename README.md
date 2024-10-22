@@ -1,5 +1,8 @@
-# Awesome Genome Architecture
-A Collection of Papers on Genome Architectures at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC).
+# Awesome Genome Analysis
+A collection of papers on awesome genome analysis, e.g., architectures, systems, and algorithms.
+
+## Awesome Genome Architecture
+Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
@@ -50,8 +53,8 @@ A Collection of Papers on Genome Architectures at top-tier conferences (e.g., HP
 | 2024 | ISCA       | MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing                                                      | ETHZ |
 
 
-# Awesome Genome System
-A Collection of Papers on Genome Acceleration Systems at top-tier conferences (e.g., PPoPP, SC).
+## Awesome Genome System
+Genome analysis Systems at top-tier conferences (e.g., PPoPP, SC).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
