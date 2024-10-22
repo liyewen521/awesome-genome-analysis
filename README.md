@@ -1,5 +1,5 @@
-# Awesome Genome Accelerator
-A Collection of Papers on Genome Accelerators at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC).
+# Awesome Genome Architecture
+A Collection of Papers on Genome Architectures at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
