@@ -50,7 +50,30 @@ A Collection of Papers on Genome Accelerators at top-tier conferences (e.g., HPC
 | 2024 | ISCA       | MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing                                                      | ETHZ |
 
 
+# Awesome Genome System
+A Collection of Papers on Genome Acceleration Systems at top-tier conferences (e.g., PPoPP, SC).
 
+| Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
+| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| 2018 | PPoPP      | High-performance genomic analysis framework with in-memory computing                                                                                         | ICT, CAS  |
+| 2018 | SC         | Extreme scale de novo metagenome assembly                                                                                                                    | Intel |
+| 2018 | SC         | Optimizing high performance distributed memory parallel hash tables for DNA k-mer counting                                                                   | Georgia Tech |
+||||<br>
+| 2020 | SC         | Distributed many-to-many protein sequence alignment using sparse matrices                                                                                    | Lawrence Berkeley National Laboratory |
+| 2020 | SC         | SegAlign: a scalable GPU-based whole genome aligner                                                                                                          | Stanford  |
+||||<br>
+| 2021 | PPoPP      | Asynchrony versus bulk-synchrony for a generalized N-body problem from genomics                                                                              | UCB |
+| 2021 | SC         | Accelerating large scale de novo metagenome assembly using GPUs                                                                                              | Lawrence Berkeley National Laboratory |
+| 2021 | SC         | FastZ: accelerating gapped whole genome alignment on GPUs                                                                                                    | Purdue University |
+| 2021 | SC         | High-throughput virtual screening of small molecule inhibitors for SARS-CoV-2 protein targets with deep fusion models                                        | Lawrence Livermore National Laboratory |
+||||<br>
+| 2022 | SC         | Extreme-Scale Many-Against-Many Protein Similarity Search                                                                                                    | Lawrence Berkeley National Laboratory |
+||||<br>
+| 2023 | PPoPP      | High-Performance and Scalable Agent-Based Simulation with BioDynaMo                                                                                          | ETHZ |
+| 2023 | SC         | Space Efficient Sequence Alignment for SRAM-Based Computing: X-Drop on the Graphcore IPU                                                                     | Simula Research Laboratory |
+||||<br>
+| 2024 | PPoPP      | AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping                                                               | Seoul National University |
+| 2024 | PPoPP      | FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters                                                                                        | National University of Singapore  |
 
 <!--
 
