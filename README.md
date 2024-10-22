@@ -1,7 +1,11 @@
 # Awesome Genome Analysis
 A collection of papers on awesome genome analysis, e.g., architectures, systems, and algorithms.
 
-## Awesome Genome Architecture
+- [Architecture](#architecture)
+- [System](#system)
+- [Algorithm](#algorithm)
+
+## Architecture
 Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
@@ -53,7 +57,7 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2024 | ISCA       | MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing                                                      | ETHZ |
 
 
-## Awesome Genome System
+## System
 Genome analysis Systems at top-tier conferences (e.g., PPoPP, SC).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
@@ -77,6 +81,13 @@ Genome analysis Systems at top-tier conferences (e.g., PPoPP, SC).
 ||||<br>
 | 2024 | PPoPP      | AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping                                                               | Seoul National University |
 | 2024 | PPoPP      | FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters                                                                                        | National University of Singapore  |
+
+## Algorithm
+TBD...
+
+---
+# Contribute
+This is an active repository and your contributions are always welcome! Do not hesitate to create pull requests.
 
 <!--
 
