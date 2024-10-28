@@ -58,7 +58,7 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 
 
 ## System
-Genome analysis Systems at top-tier conferences (e.g., PPoPP, SC).
+Genome analysis systems at top-tier conferences (e.g., PPoPP, SC).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
@@ -83,7 +83,14 @@ Genome analysis Systems at top-tier conferences (e.g., PPoPP, SC).
 | 2024 | PPoPP      | FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters                                                                                        | National University of Singapore  |
 
 ## Algorithm
-TBD...
+Genome analysis algorithm at top-tier journals (e.g., Bioinformatics).
+
+| Year | Journal         | Paper                                                                                                                                                        | Affiliation |
+| ---- | ----------      | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| 2009 | Bioinformatics  | Fast and accurate short read alignment with Burrows-Wheeler transform                                                                                        | Wellcome Trust Sanger Institute |
+| 2010 | Bioinformatics  | Fast and accurate long-read alignment with Burrows–Wheeler transform                                                                                         | Wellcome Trust Sanger Institute |
+| 2010 | arXiv           | Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM                                                                                   | Broad Institute |
+| 2022 | Bioinformatics  | BWA-MEME: BWA-MEM emulated with a machine learning approach                                                                                                  | KAIST  |
 
 ---
 # Contribute
