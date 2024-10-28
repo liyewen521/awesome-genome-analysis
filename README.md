@@ -2,8 +2,9 @@
 A collection of papers on awesome genome analysis, e.g., architectures, systems, and algorithms.
 
 - [Architecture](#architecture)
-- [System](#system)
+- [HPC System](#system)
 - [Algorithm](#algorithm)
+- [Future System](#future-system)
 
 ## Architecture
 Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC).
@@ -57,7 +58,7 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2024 | ISCA       | MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing                                                      | ETHZ |
 
 
-## System
+## HPC System
 Genome analysis systems at top-tier conferences (e.g., PPoPP, SC).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
@@ -91,6 +92,16 @@ Genome analysis algorithm at top-tier journals (e.g., Bioinformatics).
 | 2010 | Bioinformatics  | Fast and accurate long-read alignment with Burrows–Wheeler transform                                                                                         | Wellcome Trust Sanger Institute |
 | 2010 | arXiv           | Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM                                                                                   | Broad Institute |
 | 2022 | Bioinformatics  | BWA-MEME: BWA-MEM emulated with a machine learning approach                                                                                                  | KAIST  |
+
+## Future System
+Future genome analysis system at top-tier journals (e.g., Nature, Science).
+
+| Year | Journal           | Paper                                                                                                                                                        | Affiliation |
+| ---- | ----------        | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| 2021 | Nature Materials  | Random access DNA memory using Boolean search in an archival file storage system                                                                             | MIT |
+| 2023 | Nature            | DNA-based programmable gate arrays for general-purpose DNA computing                                                                                         | SJTU |
+| 2024 | Nature            | Parallel molecular data storage by printing epigenetic bits on DNA                                                                                           | PKU |
+
 
 ---
 # Contribute
