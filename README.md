@@ -50,6 +50,7 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2023 | DAC        | Invited: Accelerating Genome Analysis via Algorithm-Architecture Co-Design                                                                                   | ETHZ |
 | 2023 | DAC        | ASMCap: An Approximate String Matching Accelerator for Genome Sequence Analysis Based on Capacitive Content Addressable Memory                               | THU |
 | 2023 | DAC        | MeG2: In-Memory Acceleration for Genome Graphs Analysis                                                                                                      | HUST |
+| 2023 | DAC        | UpPipe: A Novel Pipeline Management on In-Memory Processors for RNA-seq Quantification                                                                       | National Cheng Kung University |
 ||||<br>
 | 2024 | HPCA       | TALCO: Tiling Genome Sequence Alignment Using Convergence of Traceback Pointers                                                                              | UCSD |
 | 2024 | ASPLOS     | Harp: Leveraging Quasi-Sequential Characteristics to Accelerate Sequence-to-Graph Mapping of Long Reads                                                      | THU  |
