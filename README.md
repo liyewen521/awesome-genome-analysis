@@ -38,7 +38,6 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2022 | ISCA       | EDAM: Edit Distance tolerant Approximate Matching content addressable memory                                                                                 | Technion-Israel Institute of Technology |
 | 2022 | MICRO      | BEACON: Scalable Near-Data-Processing Accelerators for Genome Analysis near Memory Pool with the CXL Support                                                 | UCSB |
 | 2022 | MICRO      | GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping                                                      | ETHZ |
-| 2022 | DAC        | ReSMA: accelerating approximate string matching using ReRAM-based content addressable memory                                                                 | HUST |
 ||||<br>
 | 2023 | HPCA       | NvWa: Enhancing Sequence Alignment Accelerator Throughput via Hardware Scheduling                                                                            | ICT, CAS |
 | 2023 | ISCA       | GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis                                                                        | UofM  |
