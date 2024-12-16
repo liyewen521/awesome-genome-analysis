@@ -104,6 +104,5 @@ Future genome analysis systems at top-tier journals (e.g., Nature, Science, etc)
 | 2024 | Nature            | Parallel molecular data storage by printing epigenetic bits on DNA                                                                                           | PKU |
 
 
----
 # Contribute
 This is an active repository and your contributions are always welcome! Do not hesitate to create pull requests.
