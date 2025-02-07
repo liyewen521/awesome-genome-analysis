@@ -82,6 +82,7 @@ Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
 ||||<br>
 | 2024 | PPoPP      | AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping                                                               | Seoul National University |
 | 2024 | PPoPP      | FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters                                                                                        | National University of Singapore  |
+| 2024 | SC         | Rapid GPU-Based Pangenome Graph Layout                                                                                                                       | Cornell University |
 
 ## Algorithm
 Genome analysis algorithm at top-tier journals (e.g., Bioinformatics, NeurIPS, etc).
