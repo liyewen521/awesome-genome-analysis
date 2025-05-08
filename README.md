@@ -87,13 +87,14 @@ Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
 ## Algorithm
 Genome analysis algorithm at top-tier journals (e.g., Bioinformatics, NeurIPS, etc).
 
-| Year | Journal         | Paper                                                                                                                                                        | Affiliation |
-| ---- | ----------      | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| 2009 | Bioinformatics  | Fast and accurate short read alignment with Burrows-Wheeler transform                                                                                        | Wellcome Trust Sanger Institute |
-| 2010 | Bioinformatics  | Fast and accurate long-read alignment with Burrows–Wheeler transform                                                                                         | Wellcome Trust Sanger Institute |
-| 2010 | arXiv           | Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM                                                                                   | Broad Institute |
-| 2019 | NeurIPS         | LISA: Towards Learned DNA Sequence Search                                                                                                                    | MIT |
-| 2022 | Bioinformatics  | BWA-MEME: BWA-MEM emulated with a machine learning approach                                                                                                  | KAIST  |
+| Year | Journal         | Paper                                                                                                                                                        | Keywords | Affiliation | 
+| ---- | ----------      | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ---- |
+| 2009 | Bioinformatics  | Fast and accurate short read alignment with Burrows-Wheeler transform                                                                                        | BWA | Wellcome Trust Sanger Institute | 
+| 2010 | Bioinformatics  | Fast and accurate long-read alignment with Burrows–Wheeler transform                                                                                         | BWA-SW | Wellcome Trust Sanger Institute | 
+| 2010 | arXiv           | Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM                                                                                   | BWA-MEM | Broad Institute | 
+| 2019 | NeurIPS         | LISA: Towards Learned DNA Sequence Search                                                                                                                    | Learned Index | MIT | 
+| 2022 | Bioinformatics  | BWA-MEME: BWA-MEM emulated with a machine learning approach                                                                                                  | Learned Index | KAIST  | 
+| 2025 | Bioinformatics  | Embed-Search-Align: DNA sequence alignment using Transformer models                                                                                          | Transformer, Nanopore Sequencing | UCLA |
 
 ## Future System
 Future genome analysis systems at top-tier journals (e.g., Nature, Science, etc).
