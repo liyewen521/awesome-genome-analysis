@@ -1,16 +1,11 @@
 # Awesome Genome Analysis
-A collection of papers on awesome genome analysis, e.g., architectures, systems, and algorithms.
-
-- [Architecture](#architecture)
-- [HPC System](#system)
-- [Algorithm](#algorithm)
-- [Future System](#future-system)
+A collection of papers on awesome genome analysis, e.g., architectures, systems, and software.
 
 ## Architecture
 Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC, etc).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
 | 2018 | HPCA       | Searching for Potential gRNA Off-Target Sites for CRISPR/Cas9 Using Automata Processing Across Different Platforms                                           | UVA  |
 | 2018 | ASPLOS     | Darwin: A Genomics Co-processor Provides up to 15000X Acceleration on Long Read Assembly                                                                     | Stanford University |
 | 2018 | ISCA       | GenAx: A Genome Sequencing Accelerator                                                                                                                       | UofM |
@@ -62,10 +57,10 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
-| ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
 | 2018 | PPoPP      | High-performance genomic analysis framework with in-memory computing                                                                                         | ICT, CAS  |
 | 2018 | SC         | Extreme scale de novo metagenome assembly                                                                                                                    | Intel |
-| 2018 | SC         | Optimizing high performance distributed memory parallel hash tables for DNA k-mer counting                                                                   | Georgia Tech |
+| 2018 | SC         | Optimizing high-performance distributed memory parallel hash tables for DNA k-mer counting                                                                   | Georgia Tech |
 ||||<br>
 | 2020 | SC         | Distributed many-to-many protein sequence alignment using sparse matrices                                                                                    | Lawrence Berkeley National Laboratory |
 | 2020 | SC         | SegAlign: a scalable GPU-based whole genome aligner                                                                                                          | Stanford  |
@@ -85,26 +80,41 @@ Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
 | 2024 | SC         | Rapid GPU-Based Pangenome Graph Layout                                                                                                                       | Cornell University |
 
 ## Algorithm
-Genome analysis algorithm at top-tier journals (e.g., Bioinformatics, NeurIPS, etc).
+Genome analysis baseline software at top-tier journals and conferences (e.g., Bioinformatics, NeurIPS, etc).
+
+### Second-Generation Genome Analysis
 
 | Year | Journal         | Paper                                                                                                                                                        | Keywords | Affiliation | 
-| ---- | ----------      | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- | ---- |
-| 2009 | Bioinformatics  | Fast and accurate short read alignment with Burrows-Wheeler transform                                                                                        | BWA | Wellcome Trust Sanger Institute | 
-| 2010 | Bioinformatics  | Fast and accurate long-read alignment with Burrows–Wheeler transform                                                                                         | BWA-SW | Wellcome Trust Sanger Institute | 
-| 2010 | arXiv           | Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM                                                                                   | BWA-MEM | Broad Institute | 
-| 2019 | NeurIPS         | LISA: Towards Learned DNA Sequence Search                                                                                                                    | Learned Index | MIT | 
-| 2022 | Bioinformatics  | BWA-MEME: BWA-MEM emulated with a machine learning approach                                                                                                  | Learned Index | KAIST  | 
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: |
+| 2010 | arXiv           | Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM                                                                                   | Read Alignment | Broad Institute | 
+| 2010 | Genome Research | The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data                                                         | End-to-End Pipeline | Broad Institute | 
+||||<br>
+| 2022 | Bioinformatics  | BWA-MEME: BWA-MEM emulated with a machine learning approach                                                                                                  | Read Alignment, Learned Index | KAIST  |
+| 2018 | Nature Biotechnology | A universal SNP and small-indel variant caller using deep neural networks                                                                               | Variant Calling | Google LLC |
+
+### Third-Generation Genome Analysis
+
+| Year | Journal         | Paper                                                                                                                                                        | Keywords | Affiliation | 
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: |
+| 2021 | Genome Biology  | SquiggleNet: real-time, direct classification of nanopore signals                                                                                            | Targeted Sequencing | UofM |
+| 2020 | BIBM            | An End-to-end Oxford Nanopore Basecaller Using Convolution-augmented Transformer                                                                             | Base-calling | NUDT |
+| 2018 | Bioinformatics  | Minimap2: pairwise alignment for nucleotide sequences                                                                                                        | Read Alignment | Broad Institute | 
+| 2016 | Bioinformatics  | Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences                                                                              | Assembly  | Broad Institute | 
+| 2017 | Genome Research | Fast and accurate de novo genome assembly from long uncorrected reads                                                                                        | Polishing | University of Zagreb |
+||||<br>
 | 2025 | Bioinformatics  | Embed-Search-Align: DNA sequence alignment using Transformer models                                                                                          | Transformer, Nanopore Sequencing | UCLA |
+| 2022 | Nature Biotechnology | DeepConsensus improves the accuracy of sequences with a gap-aware sequence transformer                                                                  | Polishing | Google LLC | 
+
 
 ## Future System
 Future genome analysis systems at top-tier journals (e.g., Nature, Science, etc).
 
 | Year | Journal           | Paper                                                                                                                                                        | Affiliation |
-| ---- | ----------        | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
 | 2021 | Nature Materials  | Random access DNA memory using Boolean search in an archival file storage system                                                                             | MIT |
 | 2023 | Nature            | DNA-based programmable gate arrays for general-purpose DNA computing                                                                                         | SJTU |
 | 2024 | Nature            | Parallel molecular data storage by printing epigenetic bits on DNA                                                                                           | PKU |
 
 
 # Contribute
-This is an active repository and your contributions are always welcome! Do not hesitate to create pull requests.
+This is an active repository, and your contributions are always welcome! Do not hesitate to create pull requests.
