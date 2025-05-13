@@ -6,6 +6,8 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
+| 2014 | ISCA       | Race Logic: A Hardware Acceleration for Dynamic Programming Algorithms                                                                                       | UCSB |
+||||<br>
 | 2018 | HPCA       | Searching for Potential gRNA Off-Target Sites for CRISPR/Cas9 Using Automata Processing Across Different Platforms                                           | UVA  |
 | 2018 | ASPLOS     | Darwin: A Genomics Co-processor Provides up to 15000X Acceleration on Long Read Assembly                                                                     | Stanford University |
 | 2018 | ISCA       | GenAx: A Genome Sequencing Accelerator                                                                                                                       | UofM |
@@ -73,6 +75,10 @@ Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
+| 2006 | SC         | Locality and Parallelism Optimization for Dynamic Programming Algorithm in Bioinformatics                                                                    | ICT, CAS |
+||||<br>
+| 2015 | SC         | HipMer: an extreme-scale de novo genome assembler                                                                                                            | UCB |
+||||<br>
 | 2018 | PPoPP      | High-performance genomic analysis framework with in-memory computing                                                                                         | ICT, CAS  |
 | 2018 | SC         | Extreme scale de novo metagenome assembly                                                                                                                    | Intel |
 | 2018 | SC         | Optimizing high-performance distributed memory parallel hash tables for DNA k-mer counting                                                                   | Georgia Tech |
