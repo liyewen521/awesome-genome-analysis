@@ -1,8 +1,8 @@
 # Awesome Genome Analysis
-A collection of papers on awesome genome analysis, e.g., architectures, systems, and software.
+A collection of papers on awesome genome analysis, e.g., architectures, chips, systems, and software.
 
 ## Architecture
-Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, ISSCC, DAC, etc).
+Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, etc).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
@@ -18,8 +18,6 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2020 | ISCA       | Genesis: A Hardware Acceleration Framework for Genomic Data Analysis                                                                                         | SNU |
 | 2020 | MICRO      | SeedEx: A Genome Sequencing Accelerator for Optimal Alignments in Subminimal Space                                                                           | UofM  |
 | 2020 | MICRO      | GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis                                        | ETHZ |
-| 2020 | ISSCC      | A Fully Integrated Genetic Variant Discovery SoC for Next-Generation Sequencing                                                                              | NTU  |
-| 2020 | DAC        | PIM-Assembler: A Processing-in-Memory Platform for Genome Assembly                                                                                           | Arizona State University  |
 ||||<br>
 | 2021 | HPCA       | EXMA: A Genomics Accelerator for Exact-Matching                                                                                                              | Indiana University Bloomington |
 | 2021 | ISCA       | Accelerated Seeding for Genome Sequence Alignment with Enumerated Radix Trees                                                                                | UofM  |
@@ -37,14 +35,9 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2023 | HPCA       | NvWa: Enhancing Sequence Alignment Accelerator Throughput via Hardware Scheduling                                                                            | ICT, CAS |
 | 2023 | ISCA       | GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis                                                                        | UofM  |
 | 2023 | MICRO      | Swordfish: A Framework for Evaluating Deep Neural Network-based Basecalling using Computation-In-Memory with Non-Ideal Memristors                            | ETHZ |
-| 2023 | MICRO      | DASH-CAM: Dynamic Approximate SearcH Content Addressable Memory for genome classification                                                                    | Bar-Ilan University  |
+| 2023 | MICRO      | DASH-CAM: Dynamic Approximate Search Content Addressable Memory for Genome Classification                                                                    | Bar-Ilan University  |
 | 2023 | MICRO      | CASA: An Energy-Efficient and High-Speed CAM-based SMEM Seeding Accelerator for Genome Alignment                                                             | THU |
 | 2023 | MICRO      | GMX: Instruction Set Extensions for Fast, Scalable, and Efficient Genome Sequence Alignment                                                                  | BSC |
-| 2023 | ISSCC      | A Fully Integrated End-to-End Genome Analysis Accelerator for Next-Generation Sequencing                                                                     | NTU |
-| 2023 | DAC        | Invited: Accelerating Genome Analysis via Algorithm-Architecture Co-Design                                                                                   | ETHZ |
-| 2023 | DAC        | ASMCap: An Approximate String Matching Accelerator for Genome Sequence Analysis Based on Capacitive Content Addressable Memory                               | THU |
-| 2023 | DAC        | MeG2: In-Memory Acceleration for Genome Graphs Analysis                                                                                                      | HUST |
-| 2023 | DAC        | UpPipe: A Novel Pipeline Management on In-Memory Processors for RNA-seq Quantification                                                                       | National Cheng Kung University |
 ||||<br>
 | 2024 | HPCA       | TALCO: Tiling Genome Sequence Alignment Using Convergence of Traceback Pointers                                                                              | UCSD |
 | 2024 | ASPLOS     | Harp: Leveraging Quasi-Sequential Characteristics to Accelerate Sequence-to-Graph Mapping of Long Reads                                                      | THU  |
@@ -54,6 +47,24 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 ||||<br>
 | 2025 | ISCA       | LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization                                  | KAIST |
 | 2025 | ISCA       | NMP-PaK: Near-Memory Processing Acceleration of Scalable De Novo Genome Assembly                                                                             | University of Colorado |
+
+
+## Chip and EDA
+Genome analysis chip or EDA at top-tier conferences (e.g., ISSCC, DAC, etc).
+
+| Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
+| 2020 | ISSCC      | A Fully Integrated Genetic Variant Discovery SoC for Next-Generation Sequencing                                                                              | NTU  |
+| 2020 | DAC        | PIM-Assembler: A Processing-in-Memory Platform for Genome Assembly                                                                                           | Arizona State University  |
+||||<br>
+| 2023 | ISSCC      | A Fully Integrated End-to-End Genome Analysis Accelerator for Next-Generation Sequencing                                                                     | NTU |
+| 2023 | DAC        | Invited: Accelerating Genome Analysis via Algorithm-Architecture Co-Design                                                                                   | ETHZ |
+| 2023 | DAC        | ASMCap: An Approximate String Matching Accelerator for Genome Sequence Analysis Based on Capacitive Content Addressable Memory                               | THU |
+| 2023 | DAC        | MeG2: In-Memory Acceleration for Genome Graphs Analysis                                                                                                      | HUST |
+| 2023 | DAC        | UpPipe: A Novel Pipeline Management on In-Memory Processors for RNA-seq Quantification                                                                       | National Cheng Kung University |
+||||<br>
+| 2025 | DAC        | AutoRE: Bayesian-Optimization-based Automatic Reliability Enhancement Tool for Flow-based Microfluidic Biochips                                              | CUHK |
+| 2025 | DAC        | DANN: Diffractive Acoustic Neural Network for in-sensor computing system target at multi-biomarker diagnosis                                                 | HKU |
 
 ## HPC System
 Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
