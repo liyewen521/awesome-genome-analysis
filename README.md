@@ -51,7 +51,9 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2024 | ISCA       | QUETZAL: Vector Acceleration Framework For Modern Genome Sequence Analysis                                                                                   | BSC |
 | 2024 | ISCA       | BLESS: Bandwidth and Locality Enhanced SMEM Seeding Acceleration for DNA Sequencing                                                                          | KAIST |
 | 2024 | ISCA       | MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing                                                      | ETHZ |
-
+||||<br>
+| 2025 | ISCA       | LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization                                  | KAIST |
+| 2025 | ISCA       | NMP-PaK: Near-Memory Processing Acceleration of Scalable De Novo Genome Assembly                                                                             | University of Colorado |
 
 ## HPC System
 Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
