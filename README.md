@@ -2,7 +2,7 @@
 A collection of papers on awesome genome analysis, e.g., architectures, chips, systems, and software.
 
 ## Architecture
-Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, etc).
+Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, MICRO, PACT, etc).
 
 | Year | Conf.      | Paper                                                                                                                                                        | Affiliation |
 | :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
@@ -18,11 +18,13 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2020 | ISCA       | Genesis: A Hardware Acceleration Framework for Genomic Data Analysis                                                                                         | SNU |
 | 2020 | MICRO      | SeedEx: A Genome Sequencing Accelerator for Optimal Alignments in Subminimal Space                                                                           | UofM  |
 | 2020 | MICRO      | GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis                                        | ETHZ |
+| 2020 | PACT       | Helix: Algorithm / Architecture Co-design for Accelerating Nanopore Genome Base-calling                                                                      | Indiana University Bloomington |
 ||||<br>
 | 2021 | HPCA       | EXMA: A Genomics Accelerator for Exact-Matching                                                                                                              | Indiana University Bloomington |
 | 2021 | ISCA       | Accelerated Seeding for Genome Sequence Alignment with Enumerated Radix Trees                                                                                | UofM  |
 | 2021 | ISCA       | Sieve: Scalable In-situ DRAM-based Accelerator Designs for Massively Parallel k-mer Matching                                                                 | UVA |
 | 2021 | MICRO      | SquiggleFilter: An Accelerator for Portable Virus Detection                                                                                                  | UofM  |
+| 2021 | PACT       | Ultra efficient acceleration for de novo genome assembly via near-memory computing                                                                           | UCSD |
 ||||<br>
 | 2022 | ASPLOS     | GenStore: a high-performance in-storage processing system for genome sequence analysis                                                                       | ETHZ |
 | 2022 | ASPLOS     | ProSE: the architecture and design of a protein discovery engine                                                                                             | Duke  |
