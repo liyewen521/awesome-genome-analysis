@@ -100,10 +100,10 @@ Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
 | 2024 | PPoPP      | FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters                                                                                        | Protein Structure Prediction | National University of Singapore |
 | 2024 | SC         | Rapid GPU-Based Pangenome Graph Layout                                                                                                                       | Pangeonme Graph Layout | Cornell University |
 
-## Algorithm
+## Software
 Genome analysis baseline software at top-tier journals and conferences (e.g., Bioinformatics, NeurIPS, etc).
 
-**Second-Generation Genome Analysis**
+**Short-Read Genome Analysis**
 
 | Year | Journal         | Paper                                                                                                                                                        | Keywords | Affiliation | 
 | :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: |
@@ -113,7 +113,7 @@ Genome analysis baseline software at top-tier journals and conferences (e.g., Bi
 | 2022 | Bioinformatics  | BWA-MEME: BWA-MEM emulated with a machine learning approach                                                                                                  | Read Alignment, Learned Index | KAIST  |
 | 2018 | Nature Biotechnology | A universal SNP and small-indel variant caller using deep neural networks                                                                               | Variant Calling | Google LLC |
 
-**Third-Generation Genome Analysis**
+**Long-Read Genome Analysis**
 
 | Year | Journal         | Paper                                                                                                                                                        | Keywords | Affiliation | 
 | :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: |
@@ -123,8 +123,10 @@ Genome analysis baseline software at top-tier journals and conferences (e.g., Bi
 | 2016 | Bioinformatics  | Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences                                                                              | Assembly | Broad Institute | 
 | 2017 | Genome Research | Fast and accurate de novo genome assembly from long uncorrected reads                                                                                        | Polishing | University of Zagreb |
 ||||<br>
-| 2025 | Bioinformatics  | Embed-Search-Align: DNA sequence alignment using Transformer models                                                                                          | Transformer, Nanopore Sequencing | UCLA |
 | 2022 | Nature Biotechnology | DeepConsensus improves the accuracy of sequences with a gap-aware sequence transformer                                                                  | Polishing | Google LLC | 
+| 2022 | Nature Computational Science | Accelerating minimap2 for long-read sequencing applications on modern CPUs                                                                      | Long-Read Alignment | Intell Lab |
+| 2023 | Scientific Reports | Efficient end-to-end long-read sequence mapping using minimap2-fpga integrated with hardware accelerated chaining                                         | Long-Read Alignment | University of New South Wales |
+| 2025 | Bioinformatics  | Embed-Search-Align: DNA sequence alignment using Transformer models                                                                                          | Transformer, Nanopore Sequencing | UCLA |
 
 
 ## Future System
