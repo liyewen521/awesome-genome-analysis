@@ -51,6 +51,7 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 ||||<br>
 | 2025 | ISCA       | LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization                                  | Protein Structure Prediction | KAIST |
 | 2025 | ISCA       | NMP-PaK: Near-Memory Processing Acceleration of Scalable De Novo Genome Assembly                                                                             | De Novo Assembly | University of Colorado |
+| 2025 | MICRO      | SMX: Heterogeneous Architecture for Universal Sequence Alignment Acceleration                                                                                | Sequence Alignment | BSC | 
 
 
 ## Chip and EDA
@@ -69,6 +70,7 @@ Genome analysis chip or EDA at top-tier conferences (e.g., ISSCC, DAC, etc).
 ||||<br>
 | 2025 | DAC        | AutoRE: Bayesian-Optimization-based Automatic Reliability Enhancement Tool for Flow-based Microfluidic Biochips                                              | Flow-based Microfluidic Biochips | CUHK |
 | 2025 | DAC        | DANN: Diffractive Acoustic Neural Network for in-sensor computing system target at multi-biomarker diagnosis                                                 | Multi-Biomarker Diagnosis | HKU |
+| 2025 | Nature Computational Science | Real-time raw signal genomic analysis using fully integrated memristor hardware                                                            | Targeted Sequencing | HKU |
 
 ## HPC System
 Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
@@ -128,6 +130,13 @@ Genome analysis baseline software at top-tier journals and conferences (e.g., Bi
 | 2023 | Scientific Reports | Efficient end-to-end long-read sequence mapping using minimap2-fpga integrated with hardware accelerated chaining                                         | Long-Read Alignment | University of New South Wales |
 | 2025 | Bioinformatics  | Embed-Search-Align: DNA sequence alignment using Transformer models                                                                                          | Transformer, Nanopore Sequencing | UCLA |
 
+**Potpourri**
+
+| Year | Journal         | Paper                                                                                                                                                        | Keywords | Affiliation | 
+| :--: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: | :--: |
+| 2025 | Nature Computational Science  | Confidential computing for population-scale genome-wide association studies with SECRET-GWAS                                                   | Genome Confidential Computing | UofM |
+
+
 
 ## Future System
 Future genome analysis systems at top-tier journals (e.g., Nature, Science, etc).
@@ -137,7 +146,7 @@ Future genome analysis systems at top-tier journals (e.g., Nature, Science, etc)
 | 2021 | Nature Materials  | Random access DNA memory using Boolean search in an archival file storage system                                                                             | DNA Storage | MIT |
 | 2023 | Nature            | DNA-based programmable gate arrays for general-purpose DNA computing                                                                                         | DNA Computing | SJTU |
 | 2024 | Nature            | Parallel molecular data storage by printing epigenetic bits on DNA                                                                                           | DNA Storage | PKU |
-
+| 2025 | Nature            | Supervised learning in DNA neural networks                                                                                                                   | DNA Computing | California Institute of Technology |
 
 # Contribute
 This is an active repository, and your contributions are always welcome! Do not hesitate to create pull requests.
