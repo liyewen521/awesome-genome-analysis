@@ -147,6 +147,7 @@ Future genome analysis systems at top-tier journals (e.g., Nature, Science, etc)
 | 2023 | Nature            | DNA-based programmable gate arrays for general-purpose DNA computing                                                                                         | DNA Computing | SJTU |
 | 2024 | Nature            | Parallel molecular data storage by printing epigenetic bits on DNA                                                                                           | DNA Storage | PKU |
 | 2025 | Nature            | Supervised learning in DNA neural networks                                                                                                                   | DNA Computing | California Institute of Technology |
+| 2025 | Nature            | Heat-rechargeable computation in DNA logic circuits and neural networks                                                                                      | DNA Computing | California Institute of Technology |
 
 # Contribute
 This is an active repository, and your contributions are always welcome! Do not hesitate to create pull requests.
