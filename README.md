@@ -101,6 +101,8 @@ Genome analysis systems at top-tier conferences (e.g., PPoPP, SC, etc).
 | 2024 | PPoPP      | AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping                                                               | Extension Phase, Read Alignment | Seoul National University |
 | 2024 | PPoPP      | FastFold: Optimizing AlphaFold Training and Inference on GPU Clusters                                                                                        | Protein Structure Prediction | National University of Singapore |
 | 2024 | SC         | Rapid GPU-Based Pangenome Graph Layout                                                                                                                       | Pangeonme Graph Layout | Cornell University |
+||||<br>
+| 2025 | PPoPP      | Faster and Cheaper: Pushing the Sequence Alignment Throughput with Commercial CPUs                                                                           | Read Alignment | ICT, CAS |
 
 ## Software
 Genome analysis baseline software at top-tier journals and conferences (e.g., Bioinformatics, NeurIPS, etc).
