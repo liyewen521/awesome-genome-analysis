@@ -52,6 +52,7 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2025 | ISCA       | LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization                                  | Protein Structure Prediction | KAIST |
 | 2025 | ISCA       | NMP-PaK: Near-Memory Processing Acceleration of Scalable De Novo Genome Assembly                                                                             | De Novo Assembly | University of Colorado |
 | 2025 | MICRO      | SMX: Heterogeneous Architecture for Universal Sequence Alignment Acceleration                                                                                | Sequence Alignment | BSC | 
+||||<br>
 | 2026 | HPCA       | SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis                  | Genome Compression | ETHZ |
 | 2026 | HPCA       | GenPairX: A Hardware-Algorithm Co-Designed Accelerator for Paired-End Read Mapping                                                                           | Sequence Alignment | Huawei Technologies |
 | 2026 | HPCA       | NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture                                                                   | DNA Classification | Duke |
