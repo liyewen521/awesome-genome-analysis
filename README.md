@@ -37,7 +37,7 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2022 | MICRO      | GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping                                                      | Nanopore Base-calling, Read Alignment | ETHZ |
 ||||<br>
 | 2023 | HPCA       | NvWa: Enhancing Sequence Alignment Accelerator Throughput via Hardware Scheduling                                                                            | Read Alignment | ICT, CAS |
-| 2023 | ISCA       | GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis                                                                        | Dynamic Programming Framework, Read Alignment | UofM |
+| 2023 | ISCA       | GenDP: A Framework of Dynamic Programming Acceleration for Genome Sequencing Analysis                                                                        | Dynamic Programming Framework | UofM |
 | 2023 | MICRO      | Swordfish: A Framework for Evaluating Deep Neural Network-based Basecalling using Computation-In-Memory with Non-Ideal Memristors                            | Nanopore Base-calling | ETHZ |
 | 2023 | MICRO      | DASH-CAM: Dynamic Approximate Search Content Addressable Memory for Genome Classification                                                                    | Targeted Sequencing | Bar-Ilan University |
 | 2023 | MICRO      | CASA: An Energy-Efficient and High-Speed CAM-based SMEM Seeding Accelerator for Genome Alignment                                                             | Seeding Phase, Read Alignment | THU |
@@ -52,6 +52,11 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2025 | ISCA       | LightNobel: Improving Sequence Length Limitation in Protein Structure Prediction Model via Adaptive Activation Quantization                                  | Protein Structure Prediction | KAIST |
 | 2025 | ISCA       | NMP-PaK: Near-Memory Processing Acceleration of Scalable De Novo Genome Assembly                                                                             | De Novo Assembly | University of Colorado |
 | 2025 | MICRO      | SMX: Heterogeneous Architecture for Universal Sequence Alignment Acceleration                                                                                | Sequence Alignment | BSC | 
+| 2026 | HPCA       | SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis                  | Genome Compression | ETHZ |
+| 2026 | HPCA       | GenPairX: A Hardware-Algorithm Co-Designed Accelerator for Paired-End Read Mapping                                                                           | Sequence Alignment | Huawei Technologies |
+| 2026 | HPCA       | NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture                                                                   | DNA Classification | Duke |
+| 2026 | HPCA       | DP-HLS: A High-Level Synthesis Framework for Accelerating Dynamic Programming Algorithms in Bioinformatics                                                   | Dynamic Programming Framework | UCSD |
+
 
 
 ## Chip and EDA
